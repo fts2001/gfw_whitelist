@@ -1,4 +1,4 @@
-var wall_proxy = "PROXY proxy-dku-mpls.oit.duke.edu:3128;";
+var wall_proxy = "PROXY proxy-dku.oit.duke.edu:3128;";
 var nowall_proxy = "DIRECT;";
 var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
